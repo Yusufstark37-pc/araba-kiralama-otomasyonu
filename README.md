@@ -1,2 +1,2 @@
-# araba-kiralama-otomasyonu
-Araba Kiralama Otomasyonu
+# mini-futboloyunu
+Futbol Oyunu JavaScript
